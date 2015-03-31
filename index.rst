@@ -8,4 +8,4 @@ Contents:
 .. toctree::
   :maxdepth: 2
   
-  databases
+  Databases <databases/intro_to_databases>
