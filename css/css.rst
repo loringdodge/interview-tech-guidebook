@@ -5,7 +5,8 @@ CSS
 .. toctree::
   :maxdepth: 2
 
-  Box Model <box model>
+  Centering <centering>
+  Box Model <box_model>
   Specificity <specificity>
   Reflow <reflow>
   Selectors <selectors>
