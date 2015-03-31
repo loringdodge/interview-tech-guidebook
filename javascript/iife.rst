@@ -1,3 +1,3 @@
 ===================================
-Stacks
+IIFE (Immediately-Invoked Function Expression)
 ===================================
