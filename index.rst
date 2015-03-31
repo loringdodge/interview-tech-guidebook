@@ -10,7 +10,7 @@ Contents:
 
   HTML <html/doctype>
   CSS <css/boxmodel>
-  Javascript <javascript/asynchronous>
+  Javascript <javascript/javascript>
   jQuery <jquery/this_jquery>
   Databases <databases/intro_to_databases>
   Data Structures <data_structures/data_structures>
