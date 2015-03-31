@@ -13,6 +13,6 @@ Contents:
   Javascript <javascript/asynchronous>
   jQuery <jquery/this_jquery>
   Databases <databases/intro_to_databases>
-  Data Structures <data_structures/stacks>
+  Data Structures <data_structures/data_structures>
   Algorithms <algorithms/algorithms>
 
