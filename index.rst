@@ -1,5 +1,5 @@
 ===================================
-Tech Interview Guidebook ;
+Tech Interview Questions
 ===================================
 
 Contents:
@@ -14,6 +14,8 @@ Contents:
   jQuery <jquery/jquery>
   Front End Frameworks <front_end_framworks/front_end_framworks>
   Process Automation <process_automation/process_automation>
+  Network <network/network>
+  Git <git/git>
   Databases <databases/databases>
   Data Structures <data_structures/data_structures>
   Algorithms <algorithms/algorithms>
