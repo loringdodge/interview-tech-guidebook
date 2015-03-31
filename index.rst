@@ -14,5 +14,5 @@ Contents:
   jQuery <jquery/this_jquery>
   Databases <databases/intro_to_databases>
   Data Structures <data_structures/stacks>
-  Algorithms <algorithms/bubble_sort>
+  Algorithms <algorithms/algorithms>
 
