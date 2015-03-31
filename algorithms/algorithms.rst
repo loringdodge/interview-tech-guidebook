@@ -10,4 +10,4 @@ Algorithms
   Insertion Sort <insertion_sort>
   Merge Sort <merge_sort>
   Quick Sort <quick_sort>
-  Binary Search <binary_sort>
+  Binary Search <binary_search>
